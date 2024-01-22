@@ -1,6 +1,6 @@
 #define CATCH_CONFIG_MAIN   
 #include "catch.hpp"
-#include "Untitled-1.cpp"
+#include "ComplexNumsClass.cpp"
 
 
 TEST_CASE("Can be constructed", "[Complex]") {
